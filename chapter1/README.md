@@ -1,6 +1,6 @@
 ## Java2SE
 
-###jdk
+### jdk
 
 - JDK:Java Development Kitten (java开发工具包)
 - JRE:Java Runtime Environment(Java运行时环境)
