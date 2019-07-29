@@ -13,8 +13,11 @@
 ### jdk的安装
 
 ##### 按提示进行安装(默认即可)
+![图片alt](jdkdir.png)
+
+
   1、bin：该路径下存放了JDK的各种工具命令，常用的javac、java等命令就放在该路径下。
-  
+ 
   2、db：该路径是安装Java DB的路径。
   
   3、include：一些平台特定的头文件。
@@ -68,8 +71,7 @@ public class HelloWorld {
 	 * @param args 运行main方法的时候传进来的数据
 	 */
 	public static void main(String[] args) {
-		//System.out.println("hello world!");
-		System.out.println("你好！");
+		System.out.println("hello world!");
 	}
 }
 ```
